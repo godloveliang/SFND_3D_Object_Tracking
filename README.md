@@ -39,6 +39,9 @@ In this final project, you will implement the missing parts in the schematic. To
 ---
 # Wright up
 ## [Rubric](https://review.udacity.com/#!/rubrics/2550/view) Points
+
+<img src="images/3D_tracking.gif" width="1200"  />
+
 #### 1. Match 3D Objects
 
 Implement the method "matchBoundingBoxes", which takes as input both the previous and the current data frames and provides as output the ids of the matched regions of interest (i.e. the boxID property). Matches must be the ones with the highest number of keypoint correspondences.
